@@ -1,4 +1,5 @@
 # Wordle Clone
+### A clone of the popular guessing game. Made using React.
 To play the game, clone the repository and install the dependencies using the command  
 `npm install`  
 You also need to download JSON server and run it as follows  
